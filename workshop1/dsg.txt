@@ -1,0 +1,11 @@
+player can pick move
+
+computer uses a random move
+
+referee keeps score
+referee keeps game history
+
+
+abstract player class : pure virtual move function; computer picks random, player picks
+referee takes moves, decides winner, keeps score, can reset scores
+game controller starts game, decides on number of moves
